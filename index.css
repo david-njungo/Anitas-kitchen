@@ -1,0 +1,80 @@
+.plain{
+    background-image:url("./landing\ \(1\).jpg");
+    height:636px;
+    width:1400px;
+}
+img{
+    padding-left: 600px;
+    padding-top: 5px;
+}
+.vc{
+    display:flex;
+}
+.p2{
+    padding-top: 5px;
+    padding-left: 600px;
+    font-size: 30px;
+    color: blanchedalmond;
+}
+.p3{
+    padding-left: 600px;
+    font-weight: 700;
+    font-size: 30px;
+    color: blanchedalmond;
+}
+#br{
+ 
+    background-image:url("./breakfast.jpg");
+    height:200px;
+    width:350px;
+    background-repeat: no-repeat;
+    background-position: cover;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: beige;
+}
+#lu{
+    padding:cover;
+    background-image: url("./lunch.jpg");
+    background-repeat: no-repeat;
+    background-position: cover;
+    width:350px;
+    height:200px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    color:beige ;
+}
+#di{
+    width:350px;
+    height:200px;
+     float:right;
+    background-image: url("./dinner.jpg");
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    color:beige ;
+}
+.two{
+    display: inline-block;
+    
+}
+.fe{ 
+    background-color:beige;
+    height:90px;
+    width: 350px;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+
+}
+.fc{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    background-color:#FF5733;
+    height:90px;
+    width: 350px;
+    color: blanchedalmond;
+}
