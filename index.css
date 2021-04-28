@@ -77,4 +77,30 @@ img{
     height:90px;
     width: 350px;
     color: blanchedalmond;
+}fast{
+    display:flex;
+    padding-top:150px;
+    border-collapse: collapse;
+}
+.fo{
+    float:left;
+}
+.ff{
+    width: fit-content;
+    height:400px;
+    display:block;
+}
+.drinks{
+  padding:5px;
+}
+.jp{
+    float:left;
+    display:flex;
+
+}
+.ref{
+    
+    background-image: url("./foodsBg.jpg");
+    width:1400px;
+    height:599px;
 }
