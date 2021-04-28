@@ -104,3 +104,60 @@ img{
     width:1400px;
     height:599px;
 }
+.navi{
+
+    margin:100px 300px 200px 300px;
+    display: flex;
+    justify-content: space-around;
+    background-color: beige;
+    background-size: contain;
+    height:200px;
+    clip-path:url("./foodsBg.jpg");
+}
+.food{
+    float: left;
+}
+.about{
+    display:flex;
+    border:2px aliceblue;
+    background-color: antiquewhite;
+}
+.hi{
+    display:flex;
+}
+.h2{
+    display:flex;
+    flex-direction:column;
+}
+.src{
+    
+}
+ body{
+     background-color: #F15A29;
+     color:black
+ }
+ .last{
+     background-image: url("./subscribe.jpg");
+     text-align: center;
+     height:100px;
+     color:antiquewhite;
+}
+#email{
+    background-color: grey;
+    width:100px;
+    margin-left: 400px;
+    margin-right: 50px;
+}
+#sub{
+    background-color: #F15A29;
+}
+#last{
+    display:flex;
+}
+footer{
+    text-align: center;
+}
+.img{
+    display:flex;
+    justify-content: center;
+}
