@@ -93,31 +93,47 @@ img{
 }
 .drinks{
     padding-left: 400px;
-    
 }
 .jp{
     position: relative;
     top: -400px;
     }
+#d2{
+    position:relative;
+    left:240px;
+    top:-400px;
 }
 .ref{
-    
     background-image: url("./foodsBg.jpg");
+    height: 599px;
+    border:2px solid black;
+    position:relative;
+    top: -600px;
     width:1400px;
-    height:599px;
 }
 .navi{
-
-    margin:100px 300px 200px 300px;
-    display: flex;
-    justify-content: space-around;
+    width:1000px;
     background-color: beige;
-    background-size: contain;
-    height:200px;
-    clip-path:url("./foodsBg.jpg");
+    height:399px;
+    margin:100px 200px 100px 200px;
+    display:flex;
+    justify-content: space-around;
+    
 }
 .food{
-    float: left;
+    display:flex;
+    position: relative;
+    top:-400px;
+    right:350px;
+}
+.bf{
+    position:relative;
+    right:575px;
+}
+.cp{
+    position:relative;
+    right:1150px;
+}
 }
 .about{
     display:flex;
