@@ -77,26 +77,28 @@ img{
     height:90px;
     width: 350px;
     color: blanchedalmond;
-}fast{
-    display:flex;
-    padding-top:150px;
-    border-collapse: collapse;
+}
+.fast{
+    text-align: left;
+    margin-top:-200px;
 }
 .fo{
-    float:left;
+    position: relative; 
+    left:-200px;
+    top:400px;   
+
 }
 .ff{
-    width: fit-content;
-    height:400px;
-    display:block;
+    padding-left: 900px;
 }
 .drinks{
-  padding:5px;
+    padding-left: 400px;
+    
 }
 .jp{
-    float:left;
-    display:flex;
-
+    position: relative;
+    top: -400px;
+    }
 }
 .ref{
     
